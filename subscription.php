@@ -89,8 +89,9 @@ while(true){
     }
 }
 return (int) $next->format('U') ;
-
+// end of function
 }
+// Test code
 $verbs= array(
     'daily'=>12,
     'weekly'=>14,
